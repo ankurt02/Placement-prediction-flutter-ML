@@ -125,7 +125,7 @@ class _HomeScreenState extends State<HomeScreen> {
               TextFormField(
                 controller: _projectsController,
                 decoration: InputDecoration(
-                  hintText: 'Projects',
+                  labelText: 'Projects',
                   border: OutlineInputBorder(
                       borderRadius: BorderRadius.all(Radius.circular(16)),
                       borderSide: BorderSide(color: Colors.blue, width: 1)),
