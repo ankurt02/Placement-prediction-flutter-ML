@@ -17,7 +17,8 @@ This project is a Flutter application integrated with a machine learning model t
 <br>
 <br>
 <br>
-## Requirements
+
+### Requirements
 * Python
 * Flutter
 * Jupyter
