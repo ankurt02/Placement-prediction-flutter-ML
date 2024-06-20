@@ -63,12 +63,13 @@ The data is encoded to fit the model using LabelEncoder.
 
 
 
-<div style="border: 1px #cccccc solid; padding: 4px; margin: auto;">
-    <img src="assets/images/heatmap.png" alt="Home Screen" style="width: 550px; height: 400px; margin: 6px; " />
+<figure style="border: 1px #cccccc solid; padding: 4px; margin: auto; display: table;">
+    <img src="assets/images/heatmap.png" alt="Home Screen" style="width: 550px; height: 400px; display: block; margin: 0 auto 6px auto;" />
     <figcaption style="background-color: #0f0f0f; color: white; font-style: italic; padding: 2px; text-align: center;">
-        Fig. - Correlation Matrix Heatmao.
+        Fig. - Correlation Matrix Heatmap.
     </figcaption>
-</div>
+</figure>
+
 
 
 <br>
